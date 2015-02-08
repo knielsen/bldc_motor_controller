@@ -1,0 +1,3 @@
+Simple board to control a BLDC (brushless motor).
+
+Based on Texas Instruments TM4C1232 MCU and ST L6234 motor controller.
